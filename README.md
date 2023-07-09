@@ -1,4 +1,3 @@
-![Full Stack Web Developer](https://i.ibb.co/n0QY2hY/linkedin-Banner.png)
 
 ### Hi there 👋, I'm Golam Murshed
 #### Full Stack Web Developer
